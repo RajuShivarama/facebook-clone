@@ -21,7 +21,7 @@ Facebook is a social media platform for sharing and connecting with the people o
 
   Front End:- React.
   
-  Back End:- Express.
+  Back End:- Express, cloudinary.
   
   Database:- Mongodb
   
